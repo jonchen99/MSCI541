@@ -1,0 +1,40 @@
+docno: JC101421-0004
+internal id: 3
+date: October 14, 1921
+headline: Lucky Duck?
+raw document: 
+<DOC>
+<DOCNO> JC101421-0004 </DOCNO>
+<DOCID> 4 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+30 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+Lucky Duck? 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A duck wandering the streets of Waterloo was gifted a lifetime supply of worms. This duck was given this award after being judged to have the "longest bill" in Waterloo.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+Duck with the longest bill. Did it have a bill extension?
+</P>
+</GRAPHIC>
+<TYPE>
+<P>
+Article 
+</P>
+</TYPE>
+</DOC>
+

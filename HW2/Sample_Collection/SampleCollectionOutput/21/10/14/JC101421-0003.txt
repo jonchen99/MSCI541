@@ -1,0 +1,35 @@
+docno: JC101421-0003
+internal id: 2
+date: October 14, 1921
+headline: SIGNED: Brady Tkachuk Signs Extension with Ottawa Senators
+raw document: 
+<DOC>
+<DOCNO> JC101421-0003 </DOCNO>
+<DOCID> 3 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+30 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+SIGNED: Brady Tkachuk Signs Extension with Ottawa Senators
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Brady Tkachuk has signed a new 7 year extension with the Senators. Although he will miss the game tonight, he is expected to be named captain within the coming days.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Article
+</P>
+</TYPE>
+</DOC>
+

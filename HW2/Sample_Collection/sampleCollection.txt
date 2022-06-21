@@ -1,0 +1,121 @@
+<DOC>
+<DOCNO> JC101421-0001 </DOCNO>
+<DOCID> 1 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+25 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+VICTORY: Senators Win Big over Maple Leafs 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Ottawa Senators defeated the Toronto Maple Leafs to start the new NHL season. Brady Tkachuk scores three goals en route to a 5-2 win.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Article
+</P>
+</TYPE>
+</DOC>
+<DOC>
+<DOCNO> JC101421-0002 </DOCNO>
+<DOCID> 2 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+34 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+Senate Blocks Bill C-12345 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Members of the Canadian Senate voted 154-153 against the passing of Bill C-12345. The senators voted against this Bill for ethical reasons.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Article
+</P>
+</TYPE>
+</DOC>
+<DOC>
+<DOCNO> JC101421-0003 </DOCNO>
+<DOCID> 3 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+30 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+SIGNED: Brady Tkachuk Signs Extension with Ottawa Senators
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Brady Tkachuk has signed a new 7 year extension with the Senators. Although he will miss the game tonight, he is expected to be named captain within the coming days.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Article
+</P>
+</TYPE>
+</DOC>
+<DOC>
+<DOCNO> JC101421-0004 </DOCNO>
+<DOCID> 4 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+30 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+Lucky Duck? 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+A duck wandering the streets of Waterloo was gifted a lifetime supply of worms. This duck was given this award after being judged to have the "longest bill" in Waterloo.
+</P>
+</TEXT>
+<GRAPHIC>
+<P>
+Duck with the longest bill. Did it have a bill extension?
+</P>
+</GRAPHIC>
+<TYPE>
+<P>
+Article 
+</P>
+</TYPE>
+</DOC>

@@ -1,0 +1,35 @@
+docno: JC101421-0001
+internal id: 0
+date: October 14, 1921
+headline: VICTORY: Senators Win Big over Maple Leafs
+raw document: 
+<DOC>
+<DOCNO> JC101421-0001 </DOCNO>
+<DOCID> 1 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+25 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+VICTORY: Senators Win Big over Maple Leafs 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+The Ottawa Senators defeated the Toronto Maple Leafs to start the new NHL season. Brady Tkachuk scores three goals en route to a 5-2 win.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Article
+</P>
+</TYPE>
+</DOC>
+

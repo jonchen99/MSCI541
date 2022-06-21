@@ -1,0 +1,35 @@
+docno: JC101421-0002
+internal id: 1
+date: October 14, 1921
+headline: Senate Blocks Bill C-12345
+raw document: 
+<DOC>
+<DOCNO> JC101421-0002 </DOCNO>
+<DOCID> 2 </DOCID>
+<DATE>
+<P>
+October 14, 2021 
+</P>
+</DATE>
+<LENGTH>
+<P>
+34 words 
+</P>
+</LENGTH>
+<HEADLINE>
+<P>
+Senate Blocks Bill C-12345 
+</P>
+</HEADLINE>
+<TEXT>
+<P>
+Members of the Canadian Senate voted 154-153 against the passing of Bill C-12345. The senators voted against this Bill for ethical reasons.
+</P>
+</TEXT>
+<TYPE>
+<P>
+Article
+</P>
+</TYPE>
+</DOC>
+
